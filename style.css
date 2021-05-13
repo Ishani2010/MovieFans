@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body{
+    font-family: 'Itim', cursive;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+#Bollywood-Movies{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: yellow;
+}
+#Kids-Movies{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: yellow;  
+}
+#Judwaa-2{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: pink;  
+}
+#Golmaal-Again{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: pink;     
+}
+#Coco{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: pink;  
+}
+#Aladdin-Real-Life{
+    border: 5px solid blue;
+    font-size: 20px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: pink;  
+}
+a{
+    color: red
+}
+h1{
+    font-size: 50px
+}
+p{
+    font-size: 20px
+}
+#coco-pic{
+    height: 300px;
+}
+#aladdin-pic{
+    height: 200px
+}
